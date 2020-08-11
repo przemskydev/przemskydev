@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Nowadays, in these difficult times, my goal is to find a job that gives me the opportunity to improve my programming skills.
+
 <!--
 **przemskydev/przemskydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
