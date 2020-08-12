@@ -2,6 +2,11 @@
 
 Nowadays, in these difficult times (:crown:	🦠), my goal is to find a job that gives me the opportunity to improve my programming skills.👍
 
+First of all, I am focused on JavaScript. My efforts are based on writing clear and semantically correct code. 🤓
+
+I am currently learning and working on a better React syntax, using the most recent implementations such as hooks and design patterns, e.g. HOC, RenderProps, compound components, code modularization, logic extraction, etc.
+
+In my projects (better or worse code quality 🤫😒), I use different kinds of libraries or tools (sometimes with tears in my eyes 😥) adding new functionality or simplicity.
 <!--
 **przemskydev/przemskydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
