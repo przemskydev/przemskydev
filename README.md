@@ -2,11 +2,9 @@
 
 Nowadays, in these difficult times (:crown:	🦠), my goal is to find a job that gives me the opportunity to improve my programming skills.👍
 
-First of all, I am focused on JavaScript. My efforts are based on writing clear and semantically correct code. 🤓
-
 I am currently learning and working on a NodeJS with express.js framework.
 
-In my projects (better or worse code quality 🤫😒), I use different kinds of libraries or tools (sometimes with tears in my eyes 😥) adding new functionality or simplicity.
+In my projects, I use different kinds of libraries or tools adding new functionality or simplicity.
 
 I am constantly learning new solutions, technologies, libraries, tools using various sources of knowledge. 😊 It is a never ending learning and I like it. 🤯
 
