@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-Nowadays, in these difficult times (:crown:	🦠), my goal is to find a job that gives me the opportunity to improve my programming skills.👍
+Currently I am refreshing knowledge. 😏
 
-I am currently learning and working on a NodeJS with express.js framework.
+Nothing special at the moment 😉
 
-In my projects, I use different kinds of libraries or tools adding new functionality or simplicity.
+See you soon ⏰
 
-I am constantly learning new solutions, technologies, libraries, tools using various sources of knowledge. 😊 It is a never ending learning and I like it. 🤯
+![BncOllieGIF](https://user-images.githubusercontent.com/61207769/204039245-a0e4f67f-49c1-430c-9e73-623716e0a12f.gif)
 
-Hope you will enjoy your time here. 🤗
-
-Best regards. 🤙
 <!--
 **przemskydev/przemskydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
