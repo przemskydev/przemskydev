@@ -6,7 +6,7 @@ Nothing special at the moment 😉
 
 See you soon ⏰
 
-![BncOllieGIF](https://user-images.githubusercontent.com/61207769/204039245-a0e4f67f-49c1-430c-9e73-623716e0a12f.gif)
+![CatWorkItGIF](https://user-images.githubusercontent.com/61207769/204039380-a0f38e32-c483-482b-9b4d-f1a1d1276d50.gif)
 
 <!--
 **przemskydev/przemskydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
